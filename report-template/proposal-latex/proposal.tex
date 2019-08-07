@@ -1,0 +1,140 @@
+\documentclass[10pt,twocolumn,letterpaper]{article}
+
+\usepackage{statcourse}
+\usepackage{times}
+\usepackage{epsfig}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+% Include other packages here, before hyperref.
+
+% If you comment hyperref and then uncomment it, you should delete
+% egpaper.aux before re-running latex.  (Or just hit 'q' on the first latex
+% run, let it finish, and you should be clear).
+\usepackage[breaklinks=true,bookmarks=false]{hyperref}
+
+
+\statcoursefinalcopy
+
+
+\setcounter{page}{1}
+\begin{document}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% DO NOT EDIT ANYTHING ABOVE THIS LINE
+% EXCEPT IF YOU LIKE TO USE ADDITIONAL PACKAGES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%% TITLE
+\title{\LaTeX\ Template for STAT479 Project Proposal}
+
+\author{First Author\\
+{\tt\small firstauthor@wisc.edu}
+\and
+Second Author\\
+{\tt\small secondauthor@wisc.edu}
+\and
+Third Author\\
+{\tt\small thirdauthor@wisc.edu}
+}
+
+\maketitle
+%\thispagestyle{empty}
+
+
+
+% MAIN ARTICLE GOES BELOW
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%%%%%%%% BODY TEXT
+
+
+
+\begin{itemize}
+
+	\item This template is based on the CVPR conference template\footnote{\url{http://statcourse2018.thecvf.com/submission/main_conference/author_guidelines}}.
+	
+	\item The information in this template is very minimal, and this file should serve you as a framework for writing your proposal. You may prefer to use a more collaboration-friendly tool while drafting the report with your class mates before you prepare the final report for submission. Remember that you should \textbf{submit both the report and code} you used for this project via Canvas. Also, \textbf{only one member per team} needs to submit the project material.
+	
+	\item The project proposal is a 2-4 page document excluding references\footnote{This means, references should of course be included but do not count towards the page limit}.
+	
+	\item You are encouraged (not required) to use 1-2 figures to illustrate technical concepts.
+	
+	\item The proposal must be formatted and submitted as a PDF document on Canvas (the submission deadline will be later announced via the schedule \& email).
+	
+	\item Please
+	check out the text in these sections for further information.
+	
+\end{itemize}
+
+
+
+
+\section{Introduction}
+
+
+In this section, describe what you are planning to do. Also, briefly describe related work.
+
+
+When discussing related work, do not forget to include appropriate references.  This is an example of a citation \cite{mirjalili2018gender}. To format the citations properly, put the
+corresponding references into the bibliography.bib file. You can obtain
+BibTeX-formatted references for the "bib" file from Google Scholar 
+(\url{https://scholar.google.com}), for example, by clicking on the 
+double-quote character under a citation and then selecting \mbox{"BibTeX"} as
+shown in Figure \ref{fig:google-scholar-1col} and 
+Figure \ref{fig:google-scholar-2col}.
+
+
+\begin{figure}[t]
+\begin{center}
+   \includegraphics[width=0.8\linewidth]{figures/google-scholar.pdf}
+\end{center}
+   \caption{Example illustrating how to get BibTeX references from
+   Google Scholar as a 1-column figure.}
+\label{fig:google-scholar-1col}
+\end{figure}
+
+
+\begin{figure*}
+\begin{center}
+   \includegraphics[width=0.8\linewidth]{figures/google-scholar.pdf}
+\end{center}
+   \caption{Example illustrating how to get BibTeX references from
+   Google Scholar as a 2-column figure.}
+\label{fig:google-scholar-2col}
+\end{figure*}
+
+
+\section{Motivation}
+
+Describe why your project is interesting. E.g., you can describe why your project could have a broader societal impact. Or, you may describe the motivation from a personal learning perspective.
+
+\section{Evaluation}
+
+What would the successful outcome of your project look like? In other words, under which circumstances would you consider your project to be “successful?”
+
+How do you measure success, specific to this project, from a technical standpoint?
+
+\section{Resources}
+
+What resources are you going to use (datasets, computer hardware, computational tools, etc.)?
+
+\section{Contributions}
+
+You are expected to share the workload evenly, and every group member is expected to participate in both the experiments and writing. (As a group, you only need to submit one proposal and one report, though. So you need to work together and coordinate your efforts.)
+
+Clearly indicate what computational and writing task each member of your group will be participating in.
+
+
+{\small
+\bibliographystyle{ieee}
+\bibliography{bibliography.bib}
+}
+
+\end{document}
