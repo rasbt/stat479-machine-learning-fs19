@@ -13,7 +13,7 @@ Below is a list of the topics I am planning to cover. Note that while these topi
 **Part I: Introduction**
 
 - [Lecture 1: What is Machine Learning? An Overview.](./01_overview/)
-- Lecture 2: Intro to Supervised Learning: KNN
+- [Lecture 2: Intro to Supervised Learning: KNN](./02_knn)
 
 **Part II: Computational Foundations**
 
