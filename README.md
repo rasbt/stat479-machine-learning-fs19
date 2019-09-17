@@ -18,7 +18,7 @@ Below is a list of the topics I am planning to cover. Note that while these topi
 **Part II: Computational Foundations**
 
 - [Lecture 3: Using Python, Anaconda, IPython, Jupyter Notebooks](./03_python)
-- Lecture 4: Scientific Computing with NumPy, SciPy, and Matplotlib
+- [Lecture 4: Scientific Computing with NumPy, SciPy, and Matplotlib](./04_sci-python)
 - Lecture 5: Data Preprocessing and Machine Learning with Scikit-Learn
 
 **Part III: Tree-Based Methods**
