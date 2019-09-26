@@ -23,7 +23,7 @@ Below is a list of the topics I am planning to cover. Note that while these topi
 
 **Part III: Tree-Based Methods**
 
-- Lecture 6: Decision Trees
+- [Lecture 6: Decision Trees]((./06_trees))
 - Lecture 7: Ensemble Methods
 
 **Part IV: Evaluation**
