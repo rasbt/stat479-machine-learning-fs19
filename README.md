@@ -28,7 +28,7 @@ Below is a list of the topics I am planning to cover. Note that while these topi
 
 **Part IV: Evaluation**
 
-- Lecture 8: Model Evaluation 1: Introduction to Overfitting and Underfitting
+- [Lecture 8: Model Evaluation 1: Introduction to Overfitting and Underfitting](./08_model-eval-1)
 - Lecture 9: Model Evaluation 2: Uncertainty Estimates and Resampling
 - Lecture 10: Model Evaluation 3: Model Selection and Cross-Validation
 - Lecture 11: Model Evaluation 4: Algorithm Selection and Statistical Tests
