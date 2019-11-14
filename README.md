@@ -36,7 +36,7 @@ Below is a list of the topics I am planning to cover. Note that while these topi
 
 **Part V: Dimensionality Reduction**
 
-- Lecture 13: Feature Selection
+- [Lecture 13: Feature Selection](./13_feat-sele)
 - Lecture 14: Feature Extraction
 
 **Part VI: Bayesian Learning**
