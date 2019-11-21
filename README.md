@@ -37,18 +37,6 @@ Below is a list of the topics I am planning to cover. Note that while these topi
 **Part V: Dimensionality Reduction**
 
 - [Lecture 13: Feature Selection](./13_feat-sele)
-- Lecture 14: Feature Extraction
+- [Lecture 14: Feature Extraction](./14_feat-extract)
 
-**Part VI: Bayesian Learning**
 
-- Lecture 15: Bayes Classifiers
-- Lecture 16: Text Data & Sentiment Analysis
-- Lecture 17: Naive Bayes Classification
-
-**Part VII: Regression**
-
-- Lecture 18: Intro to Regression Analysis
-
-**Part VIII: Unsupervised Learning**
-
-- Lecture 19: Intro to Clustering
