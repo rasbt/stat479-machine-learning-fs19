@@ -55,7 +55,7 @@
 - -10 pts for each page that goes over the 8-page limit (references are not counted; so you may have 8 pages of text + an infinite number of reference pages).
 - -10 pts for each page below the 6-page minimum requirement (references are not counted; so you may have 6 pages of text + 1 to infinitely many reference pages).
 - -10 pts for each missing image reference -- this means, if you are using an image that was not made by yourself and you don't cite the source, 10 pts will be deducted for each missing reference.
-- -10 pts will be deducted where a sentence from a book or website is copied without citation. For example, consider the following sentences from [https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+- -10 pts will be deducted where a sentence from a book or website is copied without citation. For example, consider the following sentence from [https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
 
   - In pattern recognition, the k-nearest neighbors algorithm (k-NN) is a non-parametric method used for classification and regression.
   
