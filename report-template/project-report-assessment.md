@@ -50,3 +50,29 @@
 - Are all contributions listed clearly?
 - Did each member contribute approximately equally to the project?
 
+### Length, Formatting, and Citations:
+
+- -25 pts if you submit the report in some arbitrary format and didn't use the report template.
+- -10 pts for each page that goes over the 8-page limit (references are not counted; so you may have 8 pages of text + an infinite number of reference pages).
+- -10 pts for each page below the 6-page minimum requirement (references are not counted; so you may have 6 pages of text + 1 to infinitely many reference pages).
+- -10 pts for each missing image reference -- this means, if you are using an image that was not made by yourself and you don't cite the source, 10 pts will be deducted for each missing reference.
+- -10 pts will be deducted where a sentence from a book or website is copied without citation. For example, consider the following sentence from [https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+
+  - In pattern recognition, the k-nearest neighbors algorithm (k-NN) is a non-parametric method used for classification and regression.
+  
+If you use it in your text in the following way
+
+> This section describes the machine learning methods used in this study. As a baseline model, the k-neared neighbors algorithm was used. In pattern recognition, the k-nearest neighbors algorithm (k-NN) is a non-parametric method used for classification and regression. The distance metric ...
+
+I will deduct 10 pts because you didn't indicate that you obtained the sentence from Wikipedia. However the following is ok:
+
+a)
+
+> This section describes the machine learning methods used in this study. As a baseline model, the k-neared neighbors algorithm was used. "In pattern recognition, the k-nearest neighbors algorithm (k-NN) is a non-parametric method used for classification and regression."\footcite{\url{https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm}} The distance metric ...
+
+the following is also okay -- because you rewrote the sentence you don't need the quotation marks:
+
+b) 
+
+> This section describes the machine learning methods used in this study. As a baseline model, the k-neared neighbors algorithm was used. The k-nearest neigbhors algorithm is a so-called \texit{lazy} machine learning algorithm and non-parametric method that can be used for classification and regression.\footcite{\url{https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm}} The distance metric ...
+
